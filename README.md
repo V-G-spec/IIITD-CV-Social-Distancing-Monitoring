@@ -1,4 +1,4 @@
-# IIITD Social Distancing Monitor (Computer Vision)
+# IIITD Social Distancing Monitoring (Computer Vision)
 
 ## About
 Code for my internship at IIIT Delhi (June 2020 - July 2020) under the supervision of Professor [Koteswar Rao](https://sites.google.com/site/koteswarraojerripothula).  
